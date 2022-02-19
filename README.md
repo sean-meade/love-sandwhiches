@@ -1,3 +1,5 @@
+Link to deployed site on Heroku: https://love-sandwiches-p3-example.herokuapp.com/
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome Sean Meade,
